@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/TdvXIAeabtkAAAAd/anime-frieren.gif" height="100" width="800"/>
+  <img src="https://media1.tenor.com/m/I9_HMQ0AdFIAAAAd/oshi-no-ko-oshi-no-ko-ai.gif"/>
 </div>
 
 <div id="badges"  align="center">
@@ -16,7 +16,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.tenor.com/m/obO4Phs6lLMAAAAC/6555.gif" width="600" height="300"/>
 </div>
 
 ---

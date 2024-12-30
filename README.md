@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/TdvXIAeabtkAAAAd/anime-frieren.gif" width="600"/>
+  <img src="https://media1.tenor.com/m/TdvXIAeabtkAAAAd/anime-frieren.gif" height="100" width="600"/>
 </div>
 
-<div id="badges">
+<div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/eileen-ip/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=EileenIp&style=flat-square&color=blue" alt=""/>
+<img  align="center" src="https://komarev.com/ghpvc/?username=EileenIp&style=flat-square&color=blue" alt=""/>
 
 <h1>
   hey there

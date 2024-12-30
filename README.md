@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/EloqEPT0SNYAAAAd/frieren-owo-moment-lil-cat-face.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/EloqEPT0SNYAAAAd/frieren-owo-moment-lil-cat-face.gif" width="600"/>
 </div>
 
 <div id="badges">

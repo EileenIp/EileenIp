@@ -6,7 +6,10 @@
   <a href="https://www.linkedin.com/in/eileen-ip/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img  src="https://komarev.com/ghpvc/?username=EileenIp&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="pfViews"  align="center">
+ <img  src="https://komarev.com/ghpvc/?username=EileenIp&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1>

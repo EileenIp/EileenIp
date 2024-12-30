@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/5e/3e/c3/5e3ec33434a05f87ccb159d51b53d533.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hnxYKXpHV9ggU/giphy.gif?cid=ecf05e475v55izizvinynlvh8bvp4i8thqle24zsy1jc3wbu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 - 👋 Hi, I’m @EileenIp

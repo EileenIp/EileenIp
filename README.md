@@ -42,10 +42,23 @@ I am a data analyst from Australia.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio"  alt="RStudio" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 📈 My Github History!
+
+<a href="https://github.com/EileenIp/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EileenIp" />
+</a>
+<a href="https://github.com/EileenIp/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EileenIp&layout=donut-vertical&langs_count=8&card_width=320" />
+</a>
 
 <!---
 EileenIp/EileenIp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

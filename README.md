@@ -23,17 +23,17 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 
-I am a data analyst from Australia.
+✨ I am a multi-skilled data sciencist/analyst/engineer from Australia.
 
 * 👂 My name is Eileen
 * 👩 Pronouns: she/her
-* 👀 I’m interested in being multi-skilled in Data Science / Data Analytics / Data Engineering
+* 👀 I’m interested in Data Science / Data Analytics / Data Engineering
 * 🔭 I’m currently working on interactive dashboards on Power Bi and Tableau. 
-* 🌱 I’m currently learning Machine Learning and 
-* 🤝 I’m looking to collaborate on impactful work
-* 🤔 I’m looking for help with ...
+* 🌱 I’m currently learning Machine Learning
+* 🤝 I’m looking to collaborate on impactful work/research in data visualisation 
+* 🤔 I’m looking for help with creating easy-to-understand storytelling!
 * 💬 Ask me about anything!
 * 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Find_Me_Here!-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-ip/)
 * ❤️ I love solving problems on GeeksforGeeks and reading tech articles.
@@ -41,7 +41,7 @@ I am a data analyst from Australia.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;

@@ -1,7 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hnxYKXpHV9ggU/giphy.gif?cid=ecf05e475v55izizvinynlvh8bvp4i8thqle24zsy1jc3wbu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNhNTM2dDhhY21ndWtvM2FldWducjRmazRwYW9na28zM2JtaTJwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PRFFY2eUm2dlis7Se7/giphy.webp" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/eileen-ip/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 - 👋 Hi, I’m @EileenIp
 - 👀 I’m interested in being multi-skilled in Data Science / Data Analytics / Data Engineering
 - 🌱 I’m currently learning Machine Learning

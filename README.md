@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/TdvXIAeabtkAAAAd/anime-frieren.gif" height="100" width="600"/>
+  <img src="https://media1.tenor.com/m/TdvXIAeabtkAAAAd/anime-frieren.gif" height="100" width="800"/>
 </div>
 
 <div id="badges"  align="center">

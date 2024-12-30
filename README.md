@@ -54,10 +54,10 @@ I am a data analyst from Australia.
 ### 📈 My Github History!
 
 <a href="https://github.com/EileenIp/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EileenIp&show_icons=true&theme=dracula&hide=contribs,prs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EileenIp&show_icons=true&theme=dracula&hide=contribs,prs&hide_rank=true&rank_icon=github" />
 </a>
 <a href="https://github.com/EileenIp/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EileenIp&layout=donut-vertical&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EileenIp&layout=donut-vertical&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <!---

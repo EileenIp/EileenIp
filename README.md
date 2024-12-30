@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/EloqEPT0SNYAAAAd/frieren-owo-moment-lil-cat-face.gif" width="600"/>
+  <img src="https://media1.tenor.com/m/TdvXIAeabtkAAAAd/anime-frieren.gif" width="600"/>
 </div>
 
 <div id="badges">
@@ -25,19 +25,17 @@
 
 I am a data analyst from Australia.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- 👀 I’m interested in being multi-skilled in Data Science / Data Analytics / Data Engineering
-
-- 🌱 I’m currently learning Machine Learning
-
-- 🎮 In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- 😄 Pronouns: she/her
-
-- ⚡ Fun fact: Did you know jellyfish can survive for many years without a brain so I'm fine~
-
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Click_Me!-pink?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-ip/)
+* 👂 My name is Eileen
+* 👩 Pronouns: she/her
+* 👀 I’m interested in being multi-skilled in Data Science / Data Analytics / Data Engineering
+* 🔭 I’m currently working on interactive dashboards on Power Bi and Tableau. 
+* 🌱 I’m currently learning Machine Learning and 
+* 🤝 I’m looking to collaborate on impactful work
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about anything!
+* 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Find_Me_Here!-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-ip/)
+* ❤️ I love solving problems on GeeksforGeeks and reading tech articles.
+* ⚡ Fun fact: Did you know jellyfish can survive for many years without a brain so I'm fine~
 
 ---
 

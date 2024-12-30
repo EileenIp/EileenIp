@@ -5,7 +5,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Did you know jellyfish can survive for many years without a brain so we're all fine~
 
-![](https://komarev.com/ghpvc/?username=EileenIp&style=flat-square)
+Lurker Count ⬇️
+![](https://komarev.com/ghpvc/?username=EileenIp&style=for-the-badge&color=ff69b4)
 
 <!---
 EileenIp/EileenIp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.pinterest.com/pin/because-of-you-honkai-impact-gif-because-of-you-honkai-impact-elysia-discover-share-gifs--301107925101733028/" width="100"/>
+  <img src="https://i.pinimg.com/originals/5e/3e/c3/5e3ec33434a05f87ccb159d51b53d533.gif" width="100"/>
 </div>
 
 - 👋 Hi, I’m @EileenIp

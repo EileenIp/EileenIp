@@ -1,14 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/I9_HMQ0AdFIAAAAd/oshi-no-ko-oshi-no-ko-ai.gif"/>
+  <img src="https://media1.tenor.com/m/I9_HMQ0AdFIAAAAd/oshi-no-ko-oshi-no-ko-ai.gif" width="100" height="100"/>
 </div>
 
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/eileen-ip/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img  src="https://komarev.com/ghpvc/?username=EileenIp&style=flat-square&color=blue" alt=""/>
 </div>
-
-<img  align="center" src="https://komarev.com/ghpvc/?username=EileenIp&style=flat-square&color=blue" alt=""/>
 
 <h1>
   hey there

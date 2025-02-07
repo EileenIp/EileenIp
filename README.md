@@ -25,7 +25,7 @@
 ---
 
 <div align="left">
-### 👩‍💻 About Me :
+    👩‍💻 About Me :
 
 ✨ I am a multi-skilled data sciencist/analyst/engineer from Australia.
 

@@ -49,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio"  alt="RStudio" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/ce76651cb3827b3d7e9bad7f8b87896aff43d497615f82650ee87d0e21dd5fd8/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343432372f7461626c6561752e737667" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="Power Bi"  alt="Power Bi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Microsoft Excel"  alt="Microsoft Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Microsoft PowerPoint"  alt="Microsoft PowerPoint" width="40" height="40"/>&nbsp;

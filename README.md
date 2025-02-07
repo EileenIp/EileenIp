@@ -4,7 +4,7 @@
 
 <div id="badges"  align="center">
   <div>
-    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/EileenIp)
   <a href="https://github.com/EileenIp">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub Badge"/>
   </a> 

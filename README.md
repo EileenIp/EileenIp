@@ -24,6 +24,7 @@
 
 ---
 
+<div align="left">
 ### 👩‍💻 About Me :
 
 ✨ I am a multi-skilled data sciencist/analyst/engineer from Australia.
@@ -39,7 +40,7 @@
 * 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stalk_Me_Here!-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-ip/)
 * ❤️ I love analysing and solving business problems (from social media) with data.
 * ⚡ Fun fact: Did you know jellyfish can survive for many years without a brain so I'm fine~
-
+<\div>
 ---
 
 ### 🛠️ Languages and Tools :

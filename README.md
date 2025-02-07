@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/eileen-ip/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/eileen-ip/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 <div id="pfViews"  align="center">
@@ -54,8 +57,8 @@
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png" title="Microsoft Excel"  alt="Microsoft Excel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/powerpoint.png" title="Microsoft PowerPoint"  alt="Microsoft PowerPoint" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/google-sheets/google-sheets.png" title="Google Sheets"  alt="Google Sheets" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/onenote.png" title="Microsoft OneNote"  alt="Microsoft OneNote" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/onedrive.png" title="Microsoft OneDrive"  alt="Microsoft ONeDrive" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/4327788?s=280&v=4" title="Google Analytics"  alt="Google Analytics" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVK9cxCCBkLLokq_BvQvbu-rpc1Ut-_AsLg&s" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
 ---

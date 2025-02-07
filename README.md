@@ -51,9 +51,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio"  alt="RStudio" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="Power Bi"  alt="Power Bi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Microsoft Excel"  alt="Microsoft Excel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Microsoft PowerPoint"  alt="Microsoft PowerPoint" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Microsoft PowerPoint"  alt="Microsoft PowerPoint" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png" title="Microsoft Excel"  alt="Microsoft Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/powerpoint.png" title="Microsoft PowerPoint"  alt="Microsoft PowerPoint" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/google-sheets/google-sheets.png" title="Google Sheets"  alt="Google Sheets" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/onenote.png" title="Microsoft OneNote"  alt="Microsoft OneNote" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/onedrive.png" title="Microsoft OneDrive"  alt="Microsoft ONeDrive" width="40" height="40"/>&nbsp;
 </div>
 
 ---

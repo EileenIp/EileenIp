@@ -30,13 +30,13 @@
 * 👂 My name is Eileen
 * 👩 Pronouns: she/her
 * 👀 I’m interested in Data Science / Data Analytics / Data Engineering
-* 🔭 I’m currently working on interactive dashboards on Power Bi and Tableau. 
-* 🌱 I’m currently learning Machine Learning
-* 🤝 I’m looking to collaborate on impactful work/research in data visualisation 
-* 🤔 I’m looking for help with creating easy-to-understand storytelling!
+* 🔭 I’m currently working on visualising 2025 predictions of the crypto markets. 
+* 🌱 I’m currently learning Machine Learning in finance/business! 
+* 🤝 I’m looking to collaborate on long-term business projects/problems.
+* 🤔 I’m looking for help with networking around Australia/US!
 * 💬 Ask me about anything!
-* 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Find_Me_Here!-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-ip/)
-* ❤️ I love solving problems on GeeksforGeeks and reading tech articles.
+* 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stalk_Me_Here!-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-ip/)
+* ❤️ I love analysing and solving business problems (from social media) with data.
 * ⚡ Fun fact: Did you know jellyfish can survive for many years without a brain so I'm fine~
 
 ---
@@ -49,6 +49,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio"  alt="RStudio" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/ce76651cb3827b3d7e9bad7f8b87896aff43d497615f82650ee87d0e21dd5fd8/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3335343432372f7461626c6561752e737667" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" title="Power Bi"  alt="Power Bi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Microsoft Excel"  alt="Microsoft Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Microsoft PowerPoint"  alt="Microsoft PowerPoint" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Microsoft PowerPoint"  alt="Microsoft PowerPoint" width="40" height="40"/>&nbsp;
 </div>
 
 ---

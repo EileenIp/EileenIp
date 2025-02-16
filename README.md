@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/I9_HMQ0AdFIAAAAd/oshi-no-ko-oshi-no-ko-ai.gif" width="100" height="100"/>
 </div>
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/EileenIp)
 <div id="badges"  align="center">
   <div>
-    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/EileenIp)
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub Badge" href="https://github.com/EileenIp"/> 
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge" href="https://www.linkedin.com/in/eileen-ip/"/>
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge" href="eileenip01@gmail.com"/>

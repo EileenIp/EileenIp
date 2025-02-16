@@ -43,8 +43,8 @@
 
 ---
 
-## 🛠️ Things I Use:
-<div>
+## ✨ Things I Use:
+<div align="left">
   
   ### 📊 Analytics:
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" title="Google Analytics"  alt="Google Analytics"/>&nbsp;
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="PyTorch"  alt="PyTorch"/>&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow"  alt="TensorFlow"/>&nbsp;
   
-  ### ☁️ Cloud
+  ### ☁️ Cloud:
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="Amazon AWS"  alt="Amazon AWS"/>&nbsp;
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" title="Azure DevOps"  alt="Azure DevOps"/>&nbsp;
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" title="Cloudflare"  alt="Cloudflare"/>&nbsp;
@@ -68,14 +68,14 @@
   <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logoSize=auto&logo=pythonanywhere&logoColor=white" title="PythonAnywhere"  alt="PythonAnywhere"/>&nbsp;
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" title="SalesForce"  alt="SalesForce"/>&nbsp;
   
-  ### ⚡Database
+  ### 💻 Database:
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" title="Microsoft SQL Server"  alt="Microsoft SQL Server"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLITE"  alt="SQLITE"/>&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" title="Oracle"  alt="Oracle"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL"  alt="PostgreSQL"/>&nbsp;
   
-  ### 🚀Tools
+  ### 🛠️ Tools:
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" title="R Studio"  alt="R Studio"/>&nbsp;
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode"  alt="VSCode"/>&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="Visual Studio"  alt="Visual Studio"/>&nbsp;
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" title="Obsidian"  alt="Obsidian"/>&nbsp;
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" title="Overleaf"  alt="Overfleaf"/>&nbsp;
   
-  ### 👩‍💻 Languages 
+  ### 👩‍💻 Languages:
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python"  alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R"  alt="R"/>&nbsp;
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"  alt="Pandas"/>&nbsp;

@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/I9_HMQ0AdFIAAAAd/oshi-no-ko-oshi-no-ko-ai.gif" width="100" height="100"/>
 </div>
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/EileenIp)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]()
 <div id="badges"  align="center">
   <div>
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub Badge" href="https://github.com/EileenIp"/> 

@@ -109,7 +109,15 @@
 
 ---
 
-### 📈 My Github History!
+## 🖥️ Commissions 
+<div align="center">
+💵 Price: AU$6 (every commission I increase the price by AUD$1)
+
+Pay me and I'll help you do one task! Can be helping on code, analysing your data, etc!  
+</div>
+
+---
+## 📈 My Github History!
 
 <a href="https://github.com/EileenIp/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EileenIp&show_icons=true&theme=dracula&hide=contribs,prs&rank_icon=github" />

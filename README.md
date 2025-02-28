@@ -3,8 +3,8 @@
 </div>
 <div id="badges"  align="center">
   <div>
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" title="https://github.com/EileenIp" href="https://github.com/EileenIp"/> 
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" title="https://www.linkedin.com/in/eileen-ip/" href="https://www.linkedin.com/in/eileen-ip/"/>
+    <a href="https://github.com/EileenIp"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" title="https://github.com/EileenIp" href=""/></a>
+    <a href="https://www.linkedin.com/in/eileen-ip/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" title="https://www.linkedin.com/in/eileen-ip/"/></a>
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" title="eileenip01@gmail.com"/>
 </div>
 

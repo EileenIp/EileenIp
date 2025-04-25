@@ -112,7 +112,7 @@
 
 ## 🖥️ Commissions 
 <div align="center">
-💵 Price: AU$17 (every commission I increase the price by AUD$1)
+💵 Price: AU$26 (every commission I increase the price by AUD$1)
 
 Pay me and I'll help you do one task! Can be helping on code, analysing your data, etc!  
 </div>

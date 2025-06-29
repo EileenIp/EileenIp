@@ -34,7 +34,7 @@
 * 🔭 I’m currently working on budget forecasting models to estimate future financial performance on US/AUS Stocks. 
 * 🌱 I’m currently learning Machine Learning in finance/business! 
 * 🤝 I’m looking to collaborate on long-term business projects/problems.
-* 🤔 I’m looking for help with networking around Australia/US!
+* 🤔 I’m looking for help with networking around Australia (any location) /Hong Kong (any location) /Remote Working Areas!
 * 💬 Ask me about anything!
 * 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stalk_Me_Here!-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-ip/)
 * ❤️ I love analysing and solving business problems (from social media) with data.

@@ -49,6 +49,7 @@
   ### 📊 Analytics:
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" title="Google Analytics"  alt="Google Analytics"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau"  alt="Tableau"/>&nbsp;
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Power BI"  alt="Power BI"/>&nbsp;
   
   ### 🤖 Artificial Intelligence:
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="ChatGPT"  alt="ChatGPT"/>&nbsp;
@@ -112,9 +113,9 @@
 
 ## 🖥️ Commissions 
 <div align="center">
-💵 Price: AU$26 (every commission I increase the price by AUD$1)
+💵 Price: AU$30 (every commission I increase the price by AUD$1)
 
-Pay me and I'll help you do one task! Can be helping on code, analysing your data, etc!  
+Pay me and I'll help you do one task (simple or complex)! Can be helping on code, analysing your data, etc!  
 </div>
 
 ---

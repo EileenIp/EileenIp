@@ -31,7 +31,7 @@
 * 👂 My name is Eileen
 * 👩 Pronouns: she/her
 * 👀 I’m interested in Data Science / Data Analytics / Data Engineering
-* 🔭 I’m currently working on budget forecasting models to estimate future financial performance on US/AUS Stocks. 
+* 🔭 I’m currently working on predicting post-earnings abnormal returns from language in transcripts and risk factors/MD&A. 
 * 🌱 I’m currently learning Machine Learning in finance/business! 
 * 🤝 I’m looking to collaborate on long-term business projects/problems.
 * 🤔 I’m looking for help with networking around Australia (any location) /Hong Kong (any location) /Remote Working Areas!

@@ -31,8 +31,8 @@
 * 👂 My name is Eileen
 * 👩 Pronouns: she/her
 * 👀 I’m interested in Data Science / Data Analytics / Data Engineering
-* 🔭 I’m currently working on predicting post-earnings abnormal returns from language in transcripts and risk factors/MD&A. 
-* 🌱 I’m currently learning Machine Learning in finance/business! 
+* 🔭 I’m currently working on data analytics in media & entertainment (social media, streaming, and content performance).
+* 🌱 I’m currently learning how to use data to understand audiences, engagement, and trends in media & entertainment.
 * 🤝 I’m looking to collaborate on long-term business projects/problems.
 * 🤔 I’m looking for help with networking around Australia (any location) /Hong Kong (any location) /Remote Working Areas!
 * 💬 Ask me about anything!
@@ -113,7 +113,7 @@
 
 ## 🖥️ Commissions 
 <div align="center">
-💵 Price: AU$30 (every commission I increase the price by AUD$1)
+💵 Price: AU$35 (every commission I increase the price by AUD$1)
 
 Pay me and I'll help you do one task (simple or complex)! Can be helping on code, analysing your data, etc!  
 </div>

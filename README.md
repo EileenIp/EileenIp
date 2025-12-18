@@ -1,24 +1,14 @@
-<div id="header" align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c6e9309-8399-419e-9b9d-2deaab20bec2/dg15opv-ab37fffa-3c7a-4c80-b7af-3d6cd7d38042.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhjNmU5MzA5LTgzOTktNDE5ZS05YjlkLTJkZWFhYjIwYmVjMlwvZGcxNW9wdi1hYjM3ZmZmYS0zYzdhLTRjODAtYjdhZi0zZDZjZDdkMzgwNDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cMWT-tJFvyO-HOcci5I7jbi5wAPabHPp_VE0F-4Luec" height="100"/>
+<div align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c6e9309-8399-419e-9b9d-2deaab20bec2/dg15opv-ab37fffa-3c7a-4c80-b7af-3d6cd7d38042.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhjNmU5MzA5LTgzOTktNDE5ZS05YjlkLTJkZWFhYjIwYmVjMlwvZGcxNW9wdi1hYjM3ZmZmYS0zYzdhLTRjODAtYjdhZi0zZDZjZDdkMzgwNDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cMWT-tJFvyO-HOcci5I7jbi5wAPabHPp_VE0F-4Luec" height="100"/>
 </div>
+
 <div id="badges"  align="center">
-  <div>
     <a href="https://github.com/EileenIp"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" title="https://github.com/EileenIp" href=""/></a>
     <a href="https://www.linkedin.com/in/eileen-ip/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" title="https://www.linkedin.com/in/eileen-ip/"/></a>
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" title="eileenip01@gmail.com"/>
 </div>
-
 <div id="pfViews"  align="center">
  <img  src="https://komarev.com/ghpvc/?username=EileenIp&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1>
-  Hi~
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://c.tenor.com/obO4Phs6lLMAAAAC/tenor.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -26,20 +16,35 @@
 <div align="left">
 👩‍💻 About Me :
 
-✨ I am a multi-skilled data sciencist/analyst/engineer from Australia.
+✨ Freelance Data Analyst | Data Scientist | Data Engineer | Business Intelligence Specialist | BI Consultant | Business Analyst 
 
-* 👂 My name is Eileen
+* 👂 My name is Eileen Ip
 * 👩 Pronouns: she/her
 * 👀 I’m interested in Data Science / Data Analytics / Data Engineering
 * 🔭 I’m currently working on data analytics in media & entertainment (social media, streaming, and content performance).
 * 🌱 I’m currently learning how to use data to understand audiences, engagement, and trends in media & entertainment.
 * 🤝 I’m looking to collaborate on long-term business projects/problems.
-* 🤔 I’m looking for help with networking around Australia (any location) /Hong Kong (any location) /Remote Working Areas!
+* 🤔 I’m looking for help with networking around Australia / Hong Kong / Remote Working Areas!
 * 💬 Ask me about anything!
-* 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stalk_Me_Here!-pink?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-ip/)
+* 📫 How to reach me: <a href="https://www.linkedin.com/in/eileen-ip/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" title="https://www.linkedin.com/in/eileen-ip/"/></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" title="eileenip01@gmail.com"/>
 * ❤️ I love analysing and solving business problems (from social media) with data.
 * ⚡ Fun fact: Did you know jellyfish can survive for a long time without a brain so I'm fine~
 </div>
+
+---
+# 📊 Data Portfolio
+### 🏢 Industries 
+### 🔗 Industry Overview
+➡️ **Consulting Portfolio README**  
+[View Consulting Projects](LINK_TO_CONSULTING_README)
+
+### 🔗 Industry Overview
+➡️ **Technology Portfolio README**  
+[View Technology Projects](LINK_TO_TECH_README)
+
+### ⚙️ Data Engineer — Technology
+[View Data Engineer (Tech) Projects](LINK_TO_TECH_DE_README)
 
 ---
 

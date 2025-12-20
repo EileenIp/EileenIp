@@ -23,7 +23,7 @@
 * 👀 I’m interested in Data Science / Data Analytics / Data Engineering
 * 🔭 I’m currently working on data analytics in media & entertainment (social media, streaming, and content performance).
 * 🌱 I’m currently learning how to use data to understand audiences, engagement, and trends in media & entertainment.
-* 🤝 I’m looking to collaborate on long-term business projects/problems.
+* 🤝 I’m looking to collaborate on long-term business projects/problems in media & entertainment.
 * 🤔 I’m looking for help with networking around Australia / Hong Kong / Remote Working Areas!
 * 💬 Ask me about anything!
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/eileen-ip/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" title="https://www.linkedin.com/in/eileen-ip/"/></a>

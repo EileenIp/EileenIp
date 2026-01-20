@@ -37,19 +37,19 @@
 ## 🏭 Industry Domains 
 ### 🎬 Media & Entertainment
 Focus: content performance, audience behaviour, growth & product analytics  
-➡️ [View Media & Entertainment Projects](./media-entertainment/README.md)
+➡️ [View Media & Entertainment Projects](https://github.com/EileenIp/Media-and-Entertainment-Data-Portfolio)
 
 ---
 
 ### 💳 Banking & Finance
 Focus: financial analytics, risk modelling, NLP & predictive analysis  
-➡️ [View Banking & Finance Projects](./banking-finance/README.md)
+➡️ [View & Finance Projects](https://github.com/EileenIp/Finance-Data-Portfolio/blob/main/README.md)
 
 ---
 
 ### 🛍 E-commerce & Retail *(in progress)*
 Focus: customer analytics, demand forecasting, revenue optimisation  
-➡️ [View E-commerce & Retail Projects](./ecommerce-retail/README.md)
+➡️ [View E-commerce & Retail Projects](https://github.com/EileenIp/E-commerce-and-Retail-Data-Portfolio)
 
 ---
 

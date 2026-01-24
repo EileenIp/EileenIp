@@ -25,9 +25,9 @@
 > Focus: content performance, audience behaviour, growth & product analytics     
 > ➡️ [View Media & Entertainment Projects](https://github.com/EileenIp/Media-and-Entertainment-Data-Portfolio)
 
-### 💳 Banking & Finance
+### 💳 Finance
 > Focus: financial analytics, risk modelling, NLP & predictive analysis  
-> ➡️ [View & Finance Projects](https://github.com/EileenIp/Finance-Data-Portfolio/blob/main/README.md)
+> ➡️ [ViewFinance Projects](https://github.com/EileenIp/Finance-Data-Portfolio/blob/main/README.md)
 
 ### 🛍 E-commerce & Retail *(in progress)*
 > Focus: customer analytics, demand forecasting, revenue optimisation  

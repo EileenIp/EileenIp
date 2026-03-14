@@ -27,7 +27,7 @@
 
 ### 💳 Finance
 > Focus: financial analytics, risk modelling, NLP & predictive analysis  
-> ➡️ [ViewFinance Projects](https://github.com/EileenIp/Finance-Data-Portfolio/blob/main/README.md)
+> ➡️ [View Finance Projects](https://github.com/EileenIp/Finance-Data-Portfolio/blob/main/README.md)
 
 ### 🛍 E-commerce & Retail *(in progress)*
 > Focus: customer analytics, demand forecasting, revenue optimisation  

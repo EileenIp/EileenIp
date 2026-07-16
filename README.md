@@ -8,15 +8,15 @@
 
 * 👂 My name is Eileen Ip
 * 👩 Pronouns: she/her
-* 👀 I’m interested in Data Science / Data Analytics / Data Engineering
-* 🔭 I’m currently working on data analytics in media & entertainment (social media, streaming, and content performance).
-* 🌱 I’m currently learning how to use data to understand audiences, engagement, and trends in media & entertainment.
-* 🤝 I’m looking to collaborate on long-term business projects/problems in media & entertainment.
+* 👀 I’m interested in AI and Data in Customer Experience, Marketing, Entertainment, Product & Business Strategy.
+* 🔭 I’m currently working on transitioning from data to AI projects.
+* 🌱 I’m currently learning how to use AI agents in workflows.
+* 🤝 I’m looking to collaborate on long-term product, customer and marketing projects/problems.
 * 🤔 I’m looking for help with networking around Australia / Hong Kong / Remote Working Areas!
 * 💬 Ask me about anything!
 * 📫 How to reach me: <a href="https://www.linkedin.com/in/eileen-ip/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" title="https://www.linkedin.com/in/eileen-ip/"/></a>
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" title="eileenip01@gmail.com"/>
-* ❤️ I love analysing and solving business problems (from social media) with data.
+* ❤️ I love breaking down complex and ambiguous business problems.
 * ⚡ Fun fact: Did you know jellyfish can survive for a long time without a brain so I'm fine~
 
 ## 📊 Data Portfolios
